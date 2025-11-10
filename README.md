@@ -12,9 +12,7 @@ The project involved solving various business challenges such as **revenue analy
 An **Entity Relationship Diagram (ERD)** was also designed to visualize the database schema and relationships among the tables.
 
 ---
-![Amazon sql Project Harsh Wadiya
-](Amazon ERD.png)
-
+![Amazon ERD](Amazon%20sql%20Project%20Harsh%20Wadiya/Amazon%20ERD.png)
 ---
 
 ## **Objective**
