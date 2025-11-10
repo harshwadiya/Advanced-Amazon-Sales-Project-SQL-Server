@@ -1,7 +1,6 @@
 # Advanced-Amazon-Sales-Project-SQL-Server
 ---
 
-# **Amazon USA Sales Analysis Project – SQL**
 ---
 
 ## **Project Overview**
