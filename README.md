@@ -5,7 +5,7 @@
 
 ## **Project Overview**
 
-This project focuses on analyzing over 20,000 sales records from an Amazon-like e-commerce platform using **PostgreSQL**. The goal was to uncover insights about customer behavior, product performance, and sales trends by applying advanced SQL techniques.
+This project focuses on analyzing over 20,000 sales records from an Amazon-like e-commerce platform using **SQL-SERVER MANAGEMENT STUDIO(SSMS)**. The goal was to uncover insights about customer behavior, product performance, and sales trends by applying advanced SQL techniques.
 
 The project involved solving various business challenges such as **revenue analysis**, **customer segmentation**, and **inventory optimization** through structured SQL queries. Additionally, it covered essential data engineering practices such as **data cleaning**, **handling null values**, and **database relationship management**.
 
@@ -30,7 +30,7 @@ This project utilizes advanced SQL concepts ranging from basic to complex, inclu
 - **Aggregate Functions (GROUP BY, HAVING)**  
 - **Subqueries**  
 - **Date Functions**  
-- **Common Table Expressions (CTEs)**  
+- **Common Table Expressions (CTE's)**  
 
 ---
 
